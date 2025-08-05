@@ -22,15 +22,6 @@
 ---
 
 ### 📌 About Me
-
-- 📝 我的博客 👉 [gavin-gwj.github.io/hugo-dev](https://gavin-gwj.github.io/hugo-dev/)
-- 📫 联系我 👉 **liuyigavin2025@gmail.com**
-- 🔭 正在学习：分布式系统、Spring 全家桶、Vue3 + Pinia
-- 💡 兴趣爱好：开源项目 / 技术写作 / 哔哩哔哩整活
-
----
-
-
 <p align="center">
   <a href="https://www.youtube.com/@ffxdz-n6b" target="_blank">
     <img src="https://img.shields.io/badge/Youtube-油管-ff0000?style=flat&logo=youtube" />
@@ -40,8 +31,27 @@
   </a>
 </p>
 
+📝 我的博客 👉 [gavin-gwj.github.io/hugo-dev](https://gavin-gwj.github.io/hugo-dev/)  
+📫 联系我 👉 **liuyigavin2025@gmail.com**  
+🔭 正在学习：分布式系统、Spring 全家桶、Vue3 + Pinia  
+💡 兴趣爱好：开源项目 / 技术写作 / 哔哩哔哩整活  
+
+Hello World！我是 Gavin，一个喜欢瞎折腾、但又特别较真的软件工程大四学生。  
+从一开始被代码“支配”，到现在开始享受解决问题的乐趣，这一路的成长让我越来越喜欢写代码。  
+我坚信技术是表达思想的工具，也是连接世界的钥匙。
+
+✨ 技术成长小事迹：
+
+- 独立开发并部署多个个人项目，包括技术博客（Hugo）、脚本工具、学习 Demo 等  
+- 熟悉 Java 后端开发体系，热爱 Spring 家族生态  
+- Vue 方面喜欢组合式 API + Pinia，追求代码结构清晰、易维护  
+- 喜欢动手玩 Docker 和 Linux，对 CI/CD、DevOps 有浓厚兴趣  
+- 日常混迹 GitHub & B 站，记录学习，也分享乐趣  
 
 
+
+
+### 技术栈
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="40" />
