@@ -8,7 +8,7 @@
   <a href="https://space.bilibili.com/2123131391" target="_blank">
     <img src="https://img.shields.io/badge/Bilibili-哔哩哔哩-ff69b4?style=flat&logo=bilibili" />
   </a>
-  <a href="https://gavin-gwj.github.io/hugo-dev/" target="_blank">
+  <a href="https://gavinblog.dpdns.org/" target="_blank">
     <img src="https://img.shields.io/badge/Blog-博客-4ca2f6?style=flat&logo=google-chrome" />
   </a>
 </p>
