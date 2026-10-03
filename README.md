@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I&apos;m 歌未竟 · Gavin</h1>
-<h3 align="center">软件工程师 · Java / Vue · 爱折腾、爱分享</h3>
+<h3 align="center"> 爱折腾、爱分享</h3>
 
 <p align="center">
   <a href="https://github.com/Gavin-gwj"><img src="https://img.shields.io/badge/GitHub-Gavin--gwj-000?style=flat&logo=github" /></a>
@@ -65,7 +65,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gavin-gwj&show_icons=true&theme=radical&rank_icon=percentile&hide_title=true&hide_border=true&card_width=300" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gavin-gwj&layout=compact&langs_count=6&theme=radical&hide_border=true&card_width=300" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Gavin-gwj&theme=radical&hide_border=true" />
 </p>
 
 ---
