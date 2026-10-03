@@ -22,8 +22,7 @@
 
 从学生时代被代码"支配"，到现在明天接触，最大的变化是：以前追求"能跑"，现在更在意**能不能长期维护**。喜欢把复杂的东西拆小、把重复的东西自动化，也喜欢把折腾的过程写下来分享出去。
 
-- 💼 现状：已工作，主要做业务系统的开发与迭代
-- 🌱 在学：分布式系统、Spring 全家桶、Vue3 + Pinia
+- 🌱 在学：ai大模型、Spring 全家桶、Vue3 + Pinia
 - 💡 兴趣：开源项目 / 技术写作 / 哔哩哔哩整活
 - 📝 博客：[gavin-gwj.github.io/hugo-dev](https://gavin-gwj.github.io/hugo-dev/)
 - 📫 联系我：**liuyigavin2025@gmail.com**
